@@ -181,7 +181,7 @@ table td {
   vertical-align: top;
 }
 *::selection {
-  background: #00c4b6;
+  background: #d8c8fe;
   color: #f7f7f7;
 }
 .full_page #site-title,
@@ -2213,13 +2213,13 @@ blockquote footer cite:before {
 }
 #vcomment .vat {
   font-size: 0.7125rem;
-  color: #00c4b6;
-  border: 1px solid #00c4b6;
+  color: #d8c8fe;
+  border: 1px solid #d8c8fe;
   padding: 0 0.8rem;
   border-radius: 5px;
 }
 #vcomment .vat:hover {
-  background-color: rgba(0,196,182,0.5);
+  background-color: rgba(216,200,254,0.5);
 }
 #vcomment code,
 #vcomment pre {
@@ -3574,7 +3574,7 @@ blockquote footer cite:before {
   cursor: pointer;
 }
 #pagination .page-number.current {
-  background: #00c4b6;
+  background: #d8c8fe;
   color: #fff;
   cursor: default;
 }
@@ -4088,7 +4088,7 @@ img:hover {
   }
 }
 .read-mode {
-  background: #faf9de;
+  background: #7097ad;
   padding: 0 !important;
 }
 .read-mode #sidebar,
@@ -4102,15 +4102,15 @@ img:hover {
   color: #4c4948;
 }
 .read-mode #page-header .menus_item_child {
-  background-color: #f7f5c8 !important;
+  background-color: #608ba4 !important;
 }
 .read-mode #page-header .menus_item_child:before {
-  border-color: transparent transparent #f7f5c8 !important;
+  border-color: transparent transparent #608ba4 !important;
 }
 .read-mode #top-container {
   background-image: none !important;
   height: 14rem;
-  background-color: #faf9de;
+  background-color: #7097ad;
 }
 .read-mode #top-container a {
   color: #4c4948;
@@ -4130,7 +4130,7 @@ img:hover {
   text-shadow: none;
 }
 .read-mode #page-header.fixed {
-  background: rgba(247,245,200,0.5);
+  background: rgba(96,139,164,0.5);
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -4143,7 +4143,7 @@ img:hover {
 .read-mode .layout_post {
   -webkit-box-shadow: none;
   box-shadow: none;
-  background: #faf9de;
+  background: #7097ad;
 }
 .read-mode .layout_post:hover {
   -webkit-box-shadow: none;
@@ -4151,13 +4151,13 @@ img:hover {
 }
 .read-mode .layout_post .article-container pre,
 .read-mode .layout_post .article-container .highlight {
-  background: #f7f5c8;
+  background: #608ba4;
 }
 .read-mode .layout_post .article-container .highlight:after {
-  background: #f3f1b2;
+  background: #557e95;
 }
 .read-mode .layout_post .article-container .highlight table:after {
-  background: #f3f1b2;
+  background: #557e95;
 }
 .read-mode blockquote {
   border-left: 0.2rem solid #d6dbdf;
@@ -4180,13 +4180,13 @@ img:hover {
   display: none;
 }
 .read-mode::-webkit-scrollbar-thumb {
-  background: #f0ed9c;
+  background: #4c7085;
 }
 .read-mode *::-webkit-scrollbar-thumb {
-  background: #f0ed9c;
+  background: #4c7085;
 }
 .read-mode .copy-notice {
-  background: #f3f1b2;
+  background: #557e95;
 }
 .relatedPosts {
   margin: 0 auto;
@@ -4475,15 +4475,15 @@ img:hover {
   transition: all 0.2s ease-in-out;
 }
 #sidebar .sidebar-toc .toc-link.active {
-  border-right-color: #009d92;
-  background: #00c4b6;
+  border-right-color: #996ffc;
+  background: #d8c8fe;
   color: #fff;
 }
 #sidebar .sidebar-toc__progress {
   position: relative;
   margin-top: -0.3rem;
   padding-left: 0.6rem;
-  color: #00c4b6;
+  color: #d8c8fe;
 }
 #sidebar .sidebar-toc__progress .progress-notice {
   margin-right: 0.4rem;
@@ -4495,7 +4495,7 @@ img:hover {
 #sidebar .sidebar-toc__progress-bar {
   width: 0;
   height: 1px;
-  background: #00c4b6;
+  background: #d8c8fe;
 }
 [data-theme="dark"] body {
   color: #99a9bf;
