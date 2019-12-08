@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Yuddi的个人博客</title>
   <icon>https://www.gravatar.com/avatar/5f2c2febcb7af2f606fdbd57bc160ccf</icon>
-  
+  <subtitle>乐观，努力</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yuddihust.com/"/>
+  <link href="http://yuddi.xyz/"/>
   <updated>2019-12-08T10:48:54.475Z</updated>
-  <id>http://yuddihust.com/</id>
+  <id>http://yuddi.xyz/</id>
   
   <author>
     <name>Yuddi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>She</title>
-    <link href="http://yuddihust.com/2019/12/08/She/"/>
-    <id>http://yuddihust.com/2019/12/08/She/</id>
+    <link href="http://yuddi.xyz/2019/12/08/She/"/>
+    <id>http://yuddi.xyz/2019/12/08/She/</id>
     <published>2019-12-08T08:01:58.000Z</published>
     <updated>2019-12-08T10:48:54.475Z</updated>
     
@@ -35,10 +35,10 @@
     </summary>
     
     
-      <category term="Life" scheme="http://yuddihust.com/categories/Life/"/>
+      <category term="Life" scheme="http://yuddi.xyz/categories/Life/"/>
     
     
-      <category term="She" scheme="http://yuddihust.com/tags/She/"/>
+      <category term="She" scheme="http://yuddi.xyz/tags/She/"/>
     
   </entry>
   
