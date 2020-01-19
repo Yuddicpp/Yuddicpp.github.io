@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yuddi的个人博客</title>
+  <icon>https://www.gravatar.com/avatar/5f2c2febcb7af2f606fdbd57bc160ccf</icon>
+  <subtitle>乐观，努力</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yuddi.xyz/"/>
+  <updated>2020-01-19T04:19:58.814Z</updated>
+  <id>http://yuddi.xyz/</id>
+  
+  <author>
+    <name>Yuddi</name>
+    <email>1652534962@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yuddi.xyz/2020/01/19/Hello-World/"/>
+    <id>http://yuddi.xyz/2020/01/19/Hello-World/</id>
+    <published>2020-01-19T04:19:51.000Z</published>
+    <updated>2020-01-19T04:19:58.814Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
