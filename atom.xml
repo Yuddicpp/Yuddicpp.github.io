@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yuddi.xyz/"/>
-  <updated>2020-04-22T03:05:01.600Z</updated>
+  <updated>2020-04-22T03:24:12.579Z</updated>
   <id>http://yuddi.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yuddi.xyz/2020/01/19/Hello-World/"/>
     <id>http://yuddi.xyz/2020/01/19/Hello-World/</id>
     <published>2020-01-19T04:19:51.000Z</published>
-    <updated>2020-04-22T03:05:01.600Z</updated>
+    <updated>2020-04-22T03:24:12.579Z</updated>
     
     <content type="html"><![CDATA[<p><code>print(&quot;Hello World&quot;)</code></p><p><code>printf(&quot;Hello World&quot;)</code></p><p><code>console.log(&quot;Hello World&quot;)</code></p><p><code>cout&lt;&lt;&quot;Hello World&quot;&lt;&lt;endl</code></p><p><code>System.out.println(&quot;Hello World&quot;)</code></p>]]></content>
     
@@ -31,6 +31,8 @@
     
     </summary>
     
+    
+      <category term="Interesting" scheme="http://yuddi.xyz/categories/Interesting/"/>
     
     
       <category term="Happy Birthday" scheme="http://yuddi.xyz/tags/Happy-Birthday/"/>
