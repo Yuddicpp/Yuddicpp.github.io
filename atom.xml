@@ -5,9 +5,9 @@
   <subtitle>乐观，努力</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yuddi.xyz/"/>
+  <link href="https://yuddicpp.github.io/"/>
   <updated>2020-04-22T03:31:41.634Z</updated>
-  <id>http://yuddi.xyz/</id>
+  <id>https://yuddicpp.github.io/</id>
   
   <author>
     <name>Yuddi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yuddi.xyz/2020/01/19/Hello-World/"/>
-    <id>http://yuddi.xyz/2020/01/19/Hello-World/</id>
+    <link href="https://yuddicpp.github.io/2020/01/19/Hello-World/"/>
+    <id>https://yuddicpp.github.io/2020/01/19/Hello-World/</id>
     <published>2020-01-19T04:19:51.000Z</published>
     <updated>2020-04-22T03:31:41.634Z</updated>
     
@@ -32,10 +32,10 @@
     </summary>
     
     
-      <category term="Interesting" scheme="http://yuddi.xyz/categories/Interesting/"/>
+      <category term="Interesting" scheme="https://Yuddicpp.github.io/categories/Interesting/"/>
     
     
-      <category term="Happy Birthday" scheme="http://yuddi.xyz/tags/Happy-Birthday/"/>
+      <category term="Happy Birthday" scheme="https://Yuddicpp.github.io/tags/Happy-Birthday/"/>
     
   </entry>
   
