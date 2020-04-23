@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuddicpp.github.io/"/>
-  <updated>2020-04-23T06:16:21.798Z</updated>
+  <updated>2020-04-23T06:37:38.485Z</updated>
   <id>https://yuddicpp.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://yuddicpp.github.io/2020/01/19/Hello-World/"/>
     <id>https://yuddicpp.github.io/2020/01/19/Hello-World/</id>
     <published>2020-01-19T04:19:51.000Z</published>
-    <updated>2020-04-23T06:16:21.798Z</updated>
+    <updated>2020-04-23T06:37:38.485Z</updated>
     
-    <content type="html"><![CDATA[<p><code>print(&quot;Hello World&quot;)</code></p><p><code>printf(&quot;Hello World&quot;)</code></p><p><code>console.log(&quot;Hello World&quot;)</code></p><p><code>cout&lt;&lt;&quot;Hello World&quot;&lt;&lt;endl</code></p><p><code>System.out.println(&quot;Hello World&quot;)</code></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="1-Python"><a href="#1-Python" class="headerlink" title="1.Python"></a>1.Python</h1><p>​    <code>print(&quot;Hello World&quot;)</code></p><h1 id="2-C"><a href="#2-C" class="headerlink" title="2.C"></a>2.C</h1><p>​    <code>printf(&quot;Hello World&quot;)</code></p><h1 id="3-Javascript"><a href="#3-Javascript" class="headerlink" title="3.Javascript"></a>3.Javascript</h1><p>​    <code>console.log(&quot;Hello World&quot;)</code></p><h1 id="4-C"><a href="#4-C" class="headerlink" title="4.C++"></a>4.C++</h1><p>​    <code>cout&lt;&lt;&quot;Hello World&quot;&lt;&lt;endl</code></p><h1 id="5-Java"><a href="#5-Java" class="headerlink" title="5.Java"></a>5.Java</h1><p>​    <code>System.out.println(&quot;Hello World&quot;)</code></p><h1 id="6-C"><a href="#6-C" class="headerlink" title="6.C#"></a>6.C#</h1><p>​    <code>Console.WriteLine(&quot;Hello World&quot;)</code></p><h1 id="7-PHP"><a href="#7-PHP" class="headerlink" title="7.PHP"></a>7.PHP</h1><p>​    <code>echo &quot;Hello World&quot;</code></p><h1 id="8-Scala"><a href="#8-Scala" class="headerlink" title="8.Scala"></a>8.Scala</h1><p>​    <code>println(&quot;Hello World&quot;)</code></p>]]></content>
     
     <summary type="html">
     
